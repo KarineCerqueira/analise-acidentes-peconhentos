@@ -5,7 +5,7 @@ Este projeto visa analisar dados sobre acidentes envolvendo animais peçonhentos
 ## Objetivos
 
 - Analisar dados históricos de acidentes com animais peçonhentos.
-- Localizar centros de distribuição de soros e antivenenos.
+- Localizar centros de distribuição de soros e analisar sua distribuição.
 - Propor soluções para otimização da logística de distribuição de soros.
 
 ## Tecnologias Utilizadas
