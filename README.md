@@ -1,6 +1,6 @@
 # Projeto de Pesquisa em Ciência de Dados: Análise de Acidentes com Animais Peçonhentos e Localização de Soros
 
-Este projeto visa analisar dados sobre acidentes envolvendo animais peçonhentos e fornecer informações sobre a localização do soro mais próximo ao local do incidente. O objetivo é criar um modelo preditivo e otimizar a distribuição de antivenenos, com o intuito de reduzir o tempo de resposta e melhorar a eficácia do tratamento.
+Este projeto visa analisar dados sobre acidentes envolvendo animais peçonhentos e fornecer informações sobre a localização do soro mais próximo ao local do incidente. O objetivo é otimizar a distribuição de antivenenos, com o intuito de reduzir o tempo de resposta e melhorar a eficácia do tratamento.
 
 ## Objetivos
 
