@@ -27,11 +27,6 @@ Este projeto visa analisar dados sobre acidentes envolvendo animais peçonhentos
     pip install -r requirements.txt
     ```
 
-3. Execute o script principal de análise:
-    ```bash
-    python main.py
-    ```
-
 ## Estrutura do Projeto
 
 - **/data**: Diretório com os dados de entrada (acidentes e localizações de soros).
